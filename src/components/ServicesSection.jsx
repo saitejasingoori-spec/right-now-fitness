@@ -6,25 +6,25 @@ const services = [
     icon: <Dumbbell size={40} className="text-primary" />,
     title: "Strength & Muscle",
     description: "Premium free weights, racks, and machines for serious lifters wanting to build mass and power.",
-    img: "/media__1772906510491.jpg" // Using available generated image
+    img: "/strength_muscle.jpg" // Updated to user provided image
   },
   {
     icon: <Flame size={40} className="text-secondary" />,
     title: "Fat Loss & Rehab",
     description: "Specialized programming designed to permanently transform your body composition and fix imbalances.",
-    img: "/media__1772906510569.jpg" // Using available generated image
+    img: "/fat_loss_rehab.jpg" // Updated to user provided image
   },
   {
     icon: <Activity size={40} className="text-primary" />,
     title: "Functional Training",
     description: "Dedicated turf area with sleds, battle ropes, and kettlebells for dynamic athletic performance.",
-    img: "/media__1772906510491.jpg" 
+    img: "/functional_training.jpg" 
   },
   {
     icon: <HeartPulse size={40} className="text-secondary" />,
     title: "Cardio & Steam",
     description: "State-of-the-art cardio deck for endurance, followed by recovery in our premium steam bath.",
-    img: "/media__1772906510569.jpg" 
+    img: "/cardio_steam.jpg" 
   }
 ];
 

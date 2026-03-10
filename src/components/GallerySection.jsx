@@ -15,28 +15,28 @@ const GallerySection = () => {
         <div className="gallery-grid">
           
           <div className="gallery-item large glass-panel">
-            <img src="/media__1772906510491.jpg" alt="Strength floor" className="gallery-image" />
+            <img src="/strength_muscle.jpg" alt="Strength floor" className="gallery-image" />
             <div className="gallery-overlay">
               <span className="gallery-label text-gradient">Strength Level</span>
             </div>
           </div>
 
           <div className="gallery-item medium glass-panel">
-            <img src="/media__1772906510569.jpg" alt="Cardio section" className="gallery-image" />
+            <img src="/cardio_steam.jpg" alt="Cardio section" className="gallery-image" />
             <div className="gallery-overlay">
               <span className="gallery-label text-gradient">Cardio Deck</span>
             </div>
           </div>
 
           <div className="gallery-item glass-panel">
-            <img src="/media__1772906510491.jpg" alt="Turf area" className="gallery-image" />
+            <img src="/functional_training.jpg" alt="Turf area" className="gallery-image" />
             <div className="gallery-overlay">
               <span className="gallery-label text-gradient">Functional Turf</span>
             </div>
           </div>
 
           <div className="gallery-item glass-panel">
-            <img src="/media__1772906510569.jpg" alt="Steam bath" className="gallery-image" />
+            <img src="/fat_loss_rehab.jpg" alt="Steam bath" className="gallery-image" />
             <div className="gallery-overlay">
               <span className="gallery-label text-gradient">Steam & Recovery</span>
             </div>
